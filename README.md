@@ -4,9 +4,10 @@
 
 Number partitioning means to write down all the positive sums equal to that number.
 I believe it is one of the most challenging tasks (if not the most) to find the algorithm that can do it without reapetition of sums.
-In 2015 I decided to tacle the problem and this is the way I solved it. In order to do this, I redifined Graph definition itself. 
+In 2015 I decided to tacle the problem and this is the way I solved it. In order to do this, I [redifined Graph](https://github.com/sajed-zarrinpour/Number-Partitioning/blob/master/Graph.md) definition itself. 
 In my point of view, a Graph is like a chess board, only that you are becoming different pieces based on the state you were in and the new inputs you get!
-I would add another file to describe the mathematical definitions, and yet another file to explain mathematical idea behind this c++ code example.
+
+As a challenge, try to write down the graph which creates the solutions in its creation process (yes graphs can do that according to my definition).
 
 Sample output for n = 17:
 ```
