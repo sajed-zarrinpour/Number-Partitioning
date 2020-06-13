@@ -10,6 +10,7 @@ In my point of view, a Graph is like a chess board, only that you are becoming d
 As a challenge, try to write down the graph which creates the solutions in its creation process (yes graphs can do that according to my definition).
 
 Note that math formulas in md file where written with [this](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b) hack.
+
 Sample output for n = 17:
 ```
 --------------------------      Numbers Pertition      -------------------------
