@@ -13,7 +13,7 @@ If either of the elements above were missing, we determine it by <img src="https
  
  <strong> Definition. (direction function). </strong> A multicase function <img src="https://render.githubusercontent.com/render/math?math=F:V \to D"> which takes a vertex and according to the cases in it's definition will choose next direction.
  
- <strong> Definition. (edge). </strong> A triplet <img src="https://render.githubusercontent.com/render/math?math=(v, d, w)"> where <img src="https://render.githubusercontent.com/render/math?math= v \in V"> is a vertex, <img src="https://render.githubusercontent.com/render/math?math=d \in D"> is a direction and <img src="https://render.githubusercontent.com/render/math?math=w \in W_e"> is a weight. We denote the set of edges by <img src="https://render.githubusercontent.com/render/math?math=E">
+ <strong> Definition. (edge). </strong> A triplet <img src="https://render.githubusercontent.com/render/math?math=(v, d, w)"> where <img src="https://render.githubusercontent.com/render/math?math=v \in V"> is a vertex, <img src="https://render.githubusercontent.com/render/math?math=d \in D"> is a direction and <img src="https://render.githubusercontent.com/render/math?math=w \in W_e"> is a weight. We denote the set of edges by <img src="https://render.githubusercontent.com/render/math?math=E">
  
  <strong> Definition. (Graph).</strong> We define a graph as <img src="https://render.githubusercontent.com/render/math?math=G(\Phi, \Psi, \Delta, D, E, F)">.
  
